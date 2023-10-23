@@ -7,6 +7,10 @@
 
 
 <img src="https://media1.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif?cid=6c09b952qh6wj2ati2e676ygexwtmsssun8d6n181fano8z5&ep=v1_stickers_related&rid=giphy.gif&ct=s" width="80"><img src="https://profile-counter.glitch.me/aurora-mystique/count.svg"/>
+
+  <img src="https://cdn.dribbble.com/users/1284117/screenshots/6206546/3_dribble.gif" align="right" width="500" height="300"/>
+
+
  - 🔭 I’m currently working  on **Tech projects.**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm.**
