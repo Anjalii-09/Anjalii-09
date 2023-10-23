@@ -38,7 +38,7 @@
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=aurora-mystique&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
 
-
+[![An image of @anjaliisingh1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anjaliisingh1)](https://holopin.io/@anjaliisingh1)
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora-mystique&theme=github_dark" width=600px/> <br/>
 <h2> Connect with me : <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60"> </h2>
 <a href="https://www.linkedin.com/in/anjali-511bb1237/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/anjali-511bb1237/"/></a>
