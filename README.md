@@ -22,20 +22,31 @@
 - 📫 How to reach me **anniesingh1547@gmail.com**
 
 - ⚡ Fun fact **I laugh at the wrong time😂.** 
-<h2>My GitHub stats 🌟 </h2>
+<h2>Stats ✨ </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=aurora-mystique&show_icons=true&count_private=true" alt="aurora-mystique" width=400px height=150px/>
 
 <br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aurora-mystique" alt="aurora-mystique" /></a> 
+
+
+<summary><b>🏆 <h2>  GitHub Accolades!</h2></b></summary>
+<p align="left" style='padding: -35px;' >
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=aurora-mystique&theme=gruvbox&column=6&margin-w=2&margin-h=2&no-bg=true&no-frame=true" alt="github profile stats" />
+    </a>
 </p>
 
 <img src="http://github-readme-streak-stats.herokuapp.com?user=aurora-mystique&theme=highcontrast&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" width=400px/>
 
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora-mystique&theme=github_dark" width=600px/> <br/>
+<h2> Connect with me : <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60"> </h2>
+<a href="https://www.linkedin.com/in/anjali-511bb1237/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/anjali-511bb1237/"/></a>
 
-<div><img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"><b>Connect with me!</b></em></div>
+
+[![Anjali's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aurora-mystique)](https://git.io/J1Ycx)
+
+
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
