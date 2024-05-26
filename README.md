@@ -41,7 +41,7 @@
 
 <h2> Connect with me : <img src='https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif' width="60"> </h2>
 <a href="https://www.linkedin.com/in/anjali-511bb1237/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="https://www.linkedin.com/in/anjali-511bb1237/"/></a>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aurora-mystique&theme=github_dark" width=600px/> <br/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Anjalii-09&theme=github_dark" width=600px/> <br/>
 
 <div>
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="30" height="30"/>
